@@ -1,0 +1,124 @@
+// this file was generated from Hare Metal.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317101 loop_end=373337 sample=../Audio/Hare Metal/(2013124 215357)/36C1-TC80.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327081 loop_end=383336 sample=../Audio/Hare Metal/(2013124 215357)/37C#1-RJCY.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=323101 loop_end=379820 sample=../Audio/Hare Metal/(2013124 215357)/38D1-5Z7I.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314837 loop_end=372390 sample=../Audio/Hare Metal/(2013124 215357)/39D#1-8TAS.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329459 loop_end=385932 sample=../Audio/Hare Metal/(2013124 215357)/40E1-ZEH7.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322874 loop_end=379141 sample=../Audio/Hare Metal/(2013124 215357)/41F1-FTXU.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=312894 loop_end=368945 sample=../Audio/Hare Metal/(2013124 215357)/42F#1-X5WN.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327371 loop_end=384819 sample=../Audio/Hare Metal/(2013124 215357)/43G1-VRQG.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321328 loop_end=377610 sample=../Audio/Hare Metal/(2013124 215357)/44G#1-VTLG.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=329582 loop_end=385991 sample=../Audio/Hare Metal/(2013124 215357)/45A1-QMMF.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320706 loop_end=377414 sample=../Audio/Hare Metal/(2013124 215357)/46A#1-SBVO.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314675 loop_end=371032 sample=../Audio/Hare Metal/(2013124 215357)/47B1-431V.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328623 loop_end=385176 sample=../Audio/Hare Metal/(2013124 215357)/48C2-1MW5.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315532 loop_end=371823 sample=../Audio/Hare Metal/(2013124 215357)/49C#2-OD17.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327494 loop_end=383985 sample=../Audio/Hare Metal/(2013124 215357)/50D2-O2T2.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319950 loop_end=376764 sample=../Audio/Hare Metal/(2013124 215357)/51D#2-4N80.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327663 loop_end=383704 sample=../Audio/Hare Metal/(2013124 215357)/52E2-IFL9.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319596 loop_end=375809 sample=../Audio/Hare Metal/(2013124 215357)/53F2-PWVU.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315746 loop_end=371955 sample=../Audio/Hare Metal/(2013124 215357)/54F#2-EPXS.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327184 loop_end=383371 sample=../Audio/Hare Metal/(2013124 215357)/55G2-DT2L.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315642 loop_end=372070 sample=../Audio/Hare Metal/(2013124 215357)/56G#2-TS61.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=325860 loop_end=382435 sample=../Audio/Hare Metal/(2013124 215357)/57A2-PUYH.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320332 loop_end=376985 sample=../Audio/Hare Metal/(2013124 215357)/58A#2-2OOK.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328764 loop_end=385127 sample=../Audio/Hare Metal/(2013124 215357)/59B2-4COB.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317571 loop_end=379109 sample=../Audio/Hare Metal/(2013124 215357)/60C3-C40P.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=327863 loop_end=384371 sample=../Audio/Hare Metal/(2013124 215357)/61C#3-VCB8.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320682 loop_end=377010 sample=../Audio/Hare Metal/(2013124 215357)/62D3-ZXGN.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=328557 loop_end=385046 sample=../Audio/Hare Metal/(2013124 215357)/63D#3-U1QH.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316226 loop_end=380079 sample=../Audio/Hare Metal/(2013124 215357)/64E3-6PEY.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321265 loop_end=384865 sample=../Audio/Hare Metal/(2013124 215357)/65F3-RB9J.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319271 loop_end=382359 sample=../Audio/Hare Metal/(2013124 215357)/66F#3-JWUG.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305498 loop_end=368955 sample=../Audio/Hare Metal/(2013124 215357)/67G3-K9OY.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316197 loop_end=380024 sample=../Audio/Hare Metal/(2013124 215357)/68G#3-PO6K.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311615 loop_end=375015 sample=../Audio/Hare Metal/(2013124 215357)/69A3-TNBH.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321219 loop_end=385042 sample=../Audio/Hare Metal/(2013124 215357)/70A#3-T6UX.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313496 loop_end=376992 sample=../Audio/Hare Metal/(2013124 215357)/71B3-M730.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321160 loop_end=384907 sample=../Audio/Hare Metal/(2013124 215357)/72C4-LRP2.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316467 loop_end=380075 sample=../Audio/Hare Metal/(2013124 215357)/73C#4-8QNA.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321685 loop_end=385071 sample=../Audio/Hare Metal/(2013124 215357)/74D4-UXMW.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316543 loop_end=378093 sample=../Audio/Hare Metal/(2013124 215357)/75D#4-NT4V.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321170 loop_end=384498 sample=../Audio/Hare Metal/(2013124 215357)/76E4-YV7V.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315706 loop_end=379549 sample=../Audio/Hare Metal/(2013124 215357)/77F4-OACF.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318741 loop_end=382266 sample=../Audio/Hare Metal/(2013124 215357)/78F#4-M2OG.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315887 loop_end=379376 sample=../Audio/Hare Metal/(2013124 215357)/79G4-HFD9.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319955 loop_end=383402 sample=../Audio/Hare Metal/(2013124 215357)/80G#4-Y6L6.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=317540 loop_end=380916 sample=../Audio/Hare Metal/(2013124 215357)/81A4-L7O5.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313035 loop_end=376809 sample=../Audio/Hare Metal/(2013124 215357)/82A#4-UGSM.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=311555 loop_end=375084 sample=../Audio/Hare Metal/(2013124 215357)/83B4-1GTV.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320750 loop_end=384296 sample=../Audio/Hare Metal/(2013124 215357)/84C5-N3YV.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=306510 loop_end=370113 sample=../Audio/Hare Metal/(2013124 215357)/85C#5-GD1K.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=321346 loop_end=385027 sample=../Audio/Hare Metal/(2013124 215357)/86D5-O9JX.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=314983 loop_end=378642 sample=../Audio/Hare Metal/(2013124 215357)/87D#5-Q36N.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=320046 loop_end=383423 sample=../Audio/Hare Metal/(2013124 215357)/88E5-N6DL.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=295390 loop_end=358971 sample=../Audio/Hare Metal/(2013124 215357)/89F5-ZKOC.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=313382 loop_end=377028 sample=../Audio/Hare Metal/(2013124 215357)/90F#5-SCX6.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318754 loop_end=382365 sample=../Audio/Hare Metal/(2013124 215357)/91G5-878F.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307777 loop_end=371327 sample=../Audio/Hare Metal/(2013124 215357)/92G#5-3867.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=316512 loop_end=379983 sample=../Audio/Hare Metal/(2013124 215357)/93A5-UAEH.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=318718 loop_end=382251 sample=../Audio/Hare Metal/(2013124 215357)/94A#5-4CRG.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319806 loop_end=383295 sample=../Audio/Hare Metal/(2013124 215357)/95B5-QW0R.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=305426 loop_end=369073 sample=../Audio/Hare Metal/(2013124 215357)/96C6-OAT0.aif

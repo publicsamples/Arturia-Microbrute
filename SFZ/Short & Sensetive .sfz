@@ -1,0 +1,307 @@
+// this file was generated from Short & Sensetive .exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=59 end=33955 sample=../Audio/Short & Sensetive/36C1-YAFK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=171 end=34638 sample=../Audio/Short & Sensetive/36C1-XIT7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=118 end=35180 sample=../Audio/Short & Sensetive/36C1-KND1.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=153 end=34523 sample=../Audio/Short & Sensetive/36C1-VX9F.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=207 end=34356 sample=../Audio/Short & Sensetive/37C#1-A8VE.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=156 end=34984 sample=../Audio/Short & Sensetive/37C#1-SQRU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=57 end=35551 sample=../Audio/Short & Sensetive/37C#1-8WO9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=145 end=34599 sample=../Audio/Short & Sensetive/37C#1-WSJU.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=75 end=49597 sample=../Audio/Short & Sensetive/38D1-J12I.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=166 end=34680 sample=../Audio/Short & Sensetive/38D1-LOV0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=149 end=48692 sample=../Audio/Short & Sensetive/38D1-GP7Q.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=82 end=35487 sample=../Audio/Short & Sensetive/38D1-NE1B.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=130 end=35312 sample=../Audio/Short & Sensetive/39D#1-WAMC.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=101 end=36323 sample=../Audio/Short & Sensetive/39D#1-4GSM.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=21 end=34961 sample=../Audio/Short & Sensetive/39D#1-6CF9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=131 end=35643 sample=../Audio/Short & Sensetive/39D#1-GXQB.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=92 end=35049 sample=../Audio/Short & Sensetive/40E1-LEXP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=126 end=35297 sample=../Audio/Short & Sensetive/40E1-24VD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=114 end=34682 sample=../Audio/Short & Sensetive/40E1-PRAJ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=184 end=35326 sample=../Audio/Short & Sensetive/40E1-YIM1.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=150 end=35850 sample=../Audio/Short & Sensetive/41F1-KICT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=161 end=35344 sample=../Audio/Short & Sensetive/41F1-WZU8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=134 end=35389 sample=../Audio/Short & Sensetive/41F1-11TI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=176 end=36847 sample=../Audio/Short & Sensetive/41F1-CZOL.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=153 end=36375 sample=../Audio/Short & Sensetive/42F#1-LL5J.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=130 end=35357 sample=../Audio/Short & Sensetive/42F#1-GMP3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=97 end=49194 sample=../Audio/Short & Sensetive/42F#1-0QIJ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=207 end=37108 sample=../Audio/Short & Sensetive/42F#1-FFBH.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=139 end=37683 sample=../Audio/Short & Sensetive/43G1-BF8D.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=161 end=36956 sample=../Audio/Short & Sensetive/43G1-L8YF.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=14 end=37519 sample=../Audio/Short & Sensetive/43G1-NLBO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=169 end=36835 sample=../Audio/Short & Sensetive/43G1-LGEG.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=112 end=38908 sample=../Audio/Short & Sensetive/44G#1-0O7F.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=93 end=37682 sample=../Audio/Short & Sensetive/44G#1-Y2BU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=113 end=39584 sample=../Audio/Short & Sensetive/44G#1-VSQP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=156 end=54447 sample=../Audio/Short & Sensetive/44G#1-DQAF.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=155 end=38670 sample=../Audio/Short & Sensetive/45A1-9CLX.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=134 end=37648 sample=../Audio/Short & Sensetive/45A1-36RP.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=183 end=38249 sample=../Audio/Short & Sensetive/45A1-OW6M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=125 end=38723 sample=../Audio/Short & Sensetive/45A1-TJ3R.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=100 end=42159 sample=../Audio/Short & Sensetive/46A#1-FBXF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=136 end=39497 sample=../Audio/Short & Sensetive/46A#1-N8G7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=175 end=56389 sample=../Audio/Short & Sensetive/46A#1-MGEW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=42 end=56482 sample=../Audio/Short & Sensetive/46A#1-HBR6.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=77 sample=../Audio/Short & Sensetive/47B1-C7BL.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=25 end=40537 sample=../Audio/Short & Sensetive/47B1-XS6L.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=91 end=38797 sample=../Audio/Short & Sensetive/47B1-ZWTA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=127 end=40641 sample=../Audio/Short & Sensetive/47B1-R08F.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=103 end=40496 sample=../Audio/Short & Sensetive/48C2-3BCB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=110 end=41197 sample=../Audio/Short & Sensetive/48C2-KX69.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=111 end=39603 sample=../Audio/Short & Sensetive/48C2-TUDV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=137 end=53899 sample=../Audio/Short & Sensetive/48C2-ALJM.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=151 end=42051 sample=../Audio/Short & Sensetive/49C#2-2AXB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=86 end=41098 sample=../Audio/Short & Sensetive/49C#2-5M4G.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=127 sample=../Audio/Short & Sensetive/49C#2-TTTO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=34 end=40515 sample=../Audio/Short & Sensetive/49C#2-T8HM.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=112 end=59697 sample=../Audio/Short & Sensetive/50D2-VSGV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=19 end=42721 sample=../Audio/Short & Sensetive/50D2-EQV0.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=145 end=41709 sample=../Audio/Short & Sensetive/50D2-NAAV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=144 end=43622 sample=../Audio/Short & Sensetive/50D2-YNO9.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=183 end=44089 sample=../Audio/Short & Sensetive/51D#2-XMQT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=138 end=44418 sample=../Audio/Short & Sensetive/51D#2-OM1C.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=89 end=42655 sample=../Audio/Short & Sensetive/51D#2-2MK9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=42 end=42743 sample=../Audio/Short & Sensetive/51D#2-RHRM.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=79 end=45390 sample=../Audio/Short & Sensetive/52E2-Z4TI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=106 end=43111 sample=../Audio/Short & Sensetive/52E2-057B.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=164 end=43022 sample=../Audio/Short & Sensetive/52E2-EH43.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=40 end=43664 sample=../Audio/Short & Sensetive/52E2-FDMR.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=128 end=45158 sample=../Audio/Short & Sensetive/53F2-QKPV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=75 end=64526 sample=../Audio/Short & Sensetive/53F2-GVYN.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=115 end=43831 sample=../Audio/Short & Sensetive/53F2-D9QK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=83 end=46663 sample=../Audio/Short & Sensetive/53F2-J1QG.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=190 end=44335 sample=../Audio/Short & Sensetive/54F#2-F345.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=98 end=47391 sample=../Audio/Short & Sensetive/54F#2-K1TY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=8 end=44903 sample=../Audio/Short & Sensetive/54F#2-NSFZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=115 end=46716 sample=../Audio/Short & Sensetive/54F#2-P3JM.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=187 end=45491 sample=../Audio/Short & Sensetive/55G2-WS05.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=103 end=47674 sample=../Audio/Short & Sensetive/55G2-YNBU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=133 end=46217 sample=../Audio/Short & Sensetive/55G2-DPPA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=105 end=45711 sample=../Audio/Short & Sensetive/55G2-WPH5.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=174 end=47768 sample=../Audio/Short & Sensetive/56G#2-2ZEN.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=49 end=49728 sample=../Audio/Short & Sensetive/56G#2-SIEK.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=119 end=69272 sample=../Audio/Short & Sensetive/56G#2-2MKO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=136 end=45647 sample=../Audio/Short & Sensetive/56G#2-9OU9.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=152 sample=../Audio/Short & Sensetive/57A2-ND06.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=159 end=49191 sample=../Audio/Short & Sensetive/57A2-GV9M.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=181 end=48304 sample=../Audio/Short & Sensetive/57A2-RBVY.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=168 end=68872 sample=../Audio/Short & Sensetive/57A2-X79K.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=104 end=48638 sample=../Audio/Short & Sensetive/58A#2-31H9.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=118 end=47931 sample=../Audio/Short & Sensetive/58A#2-2QU7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=114 end=48657 sample=../Audio/Short & Sensetive/58A#2-TUZ8.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=120 end=89228 sample=../Audio/Short & Sensetive/58A#2-MRPB.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=166 end=51407 sample=../Audio/Short & Sensetive/59B2-9AOT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=167 end=50700 sample=../Audio/Short & Sensetive/59B2-OHMT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=141 end=49459 sample=../Audio/Short & Sensetive/59B2-MWFI.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=170 end=82823 sample=../Audio/Short & Sensetive/59B2-SHIZ.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=110 end=50079 sample=../Audio/Short & Sensetive/60C3-1HNZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=177 end=52847 sample=../Audio/Short & Sensetive/60C3-MWW7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=130 end=49608 sample=../Audio/Short & Sensetive/60C3-8N63.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=92 end=88076 sample=../Audio/Short & Sensetive/60C3-DP8P.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=140 end=82981 sample=../Audio/Short & Sensetive/61C#3-3W2J.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=96 end=52449 sample=../Audio/Short & Sensetive/61C#3-C1IJ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=37 sample=../Audio/Short & Sensetive/61C#3-ZAJ9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=26 end=81234 sample=../Audio/Short & Sensetive/61C#3-6F0V.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=121 end=54550 sample=../Audio/Short & Sensetive/62D3-2GFS.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=125 end=51997 sample=../Audio/Short & Sensetive/62D3-CWYG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=132 sample=../Audio/Short & Sensetive/62D3-KEPL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=38 end=52094 sample=../Audio/Short & Sensetive/62D3-9SK7.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=181 end=53700 sample=../Audio/Short & Sensetive/63D#3-YUNG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=170 end=58425 sample=../Audio/Short & Sensetive/63D#3-0AY8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=125 end=57069 sample=../Audio/Short & Sensetive/63D#3-FCT7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=150 end=54301 sample=../Audio/Short & Sensetive/63D#3-U8IB.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=54 end=55169 sample=../Audio/Short & Sensetive/64E3-1A3C.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=73 end=92832 sample=../Audio/Short & Sensetive/64E3-IO0T.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=163 end=86556 sample=../Audio/Short & Sensetive/64E3-5UC0.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=175 end=91012 sample=../Audio/Short & Sensetive/64E3-57ZD.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=135 end=54829 sample=../Audio/Short & Sensetive/65F3-680J.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=134 end=59811 sample=../Audio/Short & Sensetive/65F3-APW2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=136 sample=../Audio/Short & Sensetive/65F3-N53N.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=156 end=58631 sample=../Audio/Short & Sensetive/65F3-L0Y5.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=102 end=61572 sample=../Audio/Short & Sensetive/66F#3-GB7R.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=171 end=91543 sample=../Audio/Short & Sensetive/66F#3-38KT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=112 end=93702 sample=../Audio/Short & Sensetive/66F#3-IKPT.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=125 end=55731 sample=../Audio/Short & Sensetive/66F#3-1YND.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=131 end=58482 sample=../Audio/Short & Sensetive/67G3-EKMA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=59 end=59929 sample=../Audio/Short & Sensetive/67G3-6WDQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=161 end=59271 sample=../Audio/Short & Sensetive/67G3-8C5E.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=96 end=60049 sample=../Audio/Short & Sensetive/67G3-8L69.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=170 end=61079 sample=../Audio/Short & Sensetive/68G#3-M0O1.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=109 end=97948 sample=../Audio/Short & Sensetive/68G#3-JHB4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=129 end=62518 sample=../Audio/Short & Sensetive/68G#3-2H6P.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=89 end=97964 sample=../Audio/Short & Sensetive/68G#3-9OQ7.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=130 end=65487 sample=../Audio/Short & Sensetive/69A3-NG5Z.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=132 end=61905 sample=../Audio/Short & Sensetive/69A3-KYD8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=199 end=64723 sample=../Audio/Short & Sensetive/69A3-RNCL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=11 end=67023 sample=../Audio/Short & Sensetive/69A3-HU85.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=171 end=63166 sample=../Audio/Short & Sensetive/70A#3-CXE8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=130 end=97189 sample=../Audio/Short & Sensetive/70A#3-DIXB.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=116 end=64925 sample=../Audio/Short & Sensetive/70A#3-1W90.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=52 end=63189 sample=../Audio/Short & Sensetive/70A#3-XOL5.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=202 end=68387 sample=../Audio/Short & Sensetive/71B3-DTTD.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=148 end=64210 sample=../Audio/Short & Sensetive/71B3-NB8P.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=103 end=78039 sample=../Audio/Short & Sensetive/71B3-V6L8.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=187 end=62978 sample=../Audio/Short & Sensetive/71B3-ZRF4.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=120 end=67846 sample=../Audio/Short & Sensetive/72C4-279Z.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=146 end=65292 sample=../Audio/Short & Sensetive/72C4-P7GU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=160 end=69326 sample=../Audio/Short & Sensetive/72C4-HH8V.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=132 end=67899 sample=../Audio/Short & Sensetive/72C4-UAVP.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=146 end=70789 sample=../Audio/Short & Sensetive/73C#4-7B7D.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=115 end=70830 sample=../Audio/Short & Sensetive/73C#4-NIUV.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=152 end=68497 sample=../Audio/Short & Sensetive/73C#4-U7UN.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=111 end=97463 sample=../Audio/Short & Sensetive/73C#4-QDGE.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=64 end=95525 sample=../Audio/Short & Sensetive/74D4-B9VP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=133 end=68711 sample=../Audio/Short & Sensetive/74D4-W6AT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=71 sample=../Audio/Short & Sensetive/74D4-HHD5.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=164 end=77632 sample=../Audio/Short & Sensetive/74D4-S4ED.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=177 end=68262 sample=../Audio/Short & Sensetive/75D#4-4AUQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=115 end=73379 sample=../Audio/Short & Sensetive/75D#4-URHD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=154 end=78779 sample=../Audio/Short & Sensetive/75D#4-0CPV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=179 end=76345 sample=../Audio/Short & Sensetive/75D#4-8P2L.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=101 end=71192 sample=../Audio/Short & Sensetive/76E4-5HHO.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=128 end=74388 sample=../Audio/Short & Sensetive/76E4-PEZR.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=126 end=75192 sample=../Audio/Short & Sensetive/76E4-NH05.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=189 end=76563 sample=../Audio/Short & Sensetive/76E4-GLYL.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=71 end=72864 sample=../Audio/Short & Sensetive/77F4-JB6O.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=51 end=69921 sample=../Audio/Short & Sensetive/77F4-8C4J.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=55 end=86845 sample=../Audio/Short & Sensetive/77F4-0HNU.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=45 end=75080 sample=../Audio/Short & Sensetive/77F4-TVUN.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=137 end=74228 sample=../Audio/Short & Sensetive/78F#4-Y44V.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=127 end=77228 sample=../Audio/Short & Sensetive/78F#4-5NO9.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=132 end=79026 sample=../Audio/Short & Sensetive/78F#4-LDFO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=66 end=82241 sample=../Audio/Short & Sensetive/78F#4-3EF4.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=144 end=78659 sample=../Audio/Short & Sensetive/79G4-396B.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=137 end=70403 sample=../Audio/Short & Sensetive/79G4-VEV3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=125 end=98075 sample=../Audio/Short & Sensetive/79G4-69OD.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=91 end=72306 sample=../Audio/Short & Sensetive/79G4-8TKE.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=226 end=74668 sample=../Audio/Short & Sensetive/80G#4-DRPZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=52 end=77301 sample=../Audio/Short & Sensetive/80G#4-EVTL.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=179 end=76161 sample=../Audio/Short & Sensetive/80G#4-T2TG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=117 end=75478 sample=../Audio/Short & Sensetive/80G#4-39YL.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=94 end=97433 sample=../Audio/Short & Sensetive/81A4-PN17.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=122 end=75228 sample=../Audio/Short & Sensetive/81A4-UCRQ.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=152 end=84246 sample=../Audio/Short & Sensetive/81A4-R3HG.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=114 sample=../Audio/Short & Sensetive/81A4-CO1I.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=102 end=84865 sample=../Audio/Short & Sensetive/82A#4-JQ1I.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=197 end=76337 sample=../Audio/Short & Sensetive/82A#4-J2PK.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=176 end=85849 sample=../Audio/Short & Sensetive/82A#4-S8YD.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=148 end=78625 sample=../Audio/Short & Sensetive/82A#4-EBT2.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=129 end=76828 sample=../Audio/Short & Sensetive/83B4-YTP9.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=184 end=80008 sample=../Audio/Short & Sensetive/83B4-2W1Z.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=89 sample=../Audio/Short & Sensetive/83B4-QNBH.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=114 end=97430 sample=../Audio/Short & Sensetive/83B4-YPEX.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=45 end=76610 sample=../Audio/Short & Sensetive/84C5-6MPP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=58 end=78595 sample=../Audio/Short & Sensetive/84C5-C95K.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=50 end=84932 sample=../Audio/Short & Sensetive/84C5-ODH4.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=101 end=87938 sample=../Audio/Short & Sensetive/84C5-D602.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=176 end=81473 sample=../Audio/Short & Sensetive/85C#5-AA8Y.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=107 end=74945 sample=../Audio/Short & Sensetive/85C#5-6UJK.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=63 end=83721 sample=../Audio/Short & Sensetive/85C#5-Z861.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=59 end=97933 sample=../Audio/Short & Sensetive/85C#5-WSFI.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=118 end=71502 sample=../Audio/Short & Sensetive/86D5-BJ2G.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=87 end=80931 sample=../Audio/Short & Sensetive/86D5-DUDU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=126 end=74633 sample=../Audio/Short & Sensetive/86D5-82OV.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=148 end=82692 sample=../Audio/Short & Sensetive/86D5-FU1G.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=85 end=97801 sample=../Audio/Short & Sensetive/87D#5-DGV5.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=125 end=73317 sample=../Audio/Short & Sensetive/87D#5-ACW1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=68 end=88134 sample=../Audio/Short & Sensetive/87D#5-WGUO.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=157 end=81733 sample=../Audio/Short & Sensetive/87D#5-9OQD.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=107 end=68865 sample=../Audio/Short & Sensetive/88E5-QIX6.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=82 end=74780 sample=../Audio/Short & Sensetive/88E5-Q6YE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=183 end=81459 sample=../Audio/Short & Sensetive/88E5-S966.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=177 end=87522 sample=../Audio/Short & Sensetive/88E5-2ATR.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=53 end=74053 sample=../Audio/Short & Sensetive/89F5-T5K1.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=214 end=76147 sample=../Audio/Short & Sensetive/89F5-HW18.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=120 end=78859 sample=../Audio/Short & Sensetive/89F5-734W.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=102 end=87304 sample=../Audio/Short & Sensetive/89F5-I9ES.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=127 end=69534 sample=../Audio/Short & Sensetive/90F#5-DPB4.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=115 end=76119 sample=../Audio/Short & Sensetive/90F#5-RMI2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=122 end=83099 sample=../Audio/Short & Sensetive/90F#5-9BVD.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=139 end=82209 sample=../Audio/Short & Sensetive/90F#5-2YP0.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=80 end=68879 sample=../Audio/Short & Sensetive/91G5-7AEZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=154 end=79819 sample=../Audio/Short & Sensetive/91G5-Y95L.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=130 end=79128 sample=../Audio/Short & Sensetive/91G5-DWUA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=212 end=87113 sample=../Audio/Short & Sensetive/91G5-J03K.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=134 end=70699 sample=../Audio/Short & Sensetive/92G#5-CYJ3.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=167 end=97853 sample=../Audio/Short & Sensetive/92G#5-M774.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=83 end=74512 sample=../Audio/Short & Sensetive/92G#5-Q5TL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=171 end=88589 sample=../Audio/Short & Sensetive/92G#5-1LUL.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=145 end=69555 sample=../Audio/Short & Sensetive/93A5-DIGI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=138 end=73752 sample=../Audio/Short & Sensetive/93A5-ILK3.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=154 end=79665 sample=../Audio/Short & Sensetive/93A5-PRL3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=18 end=84088 sample=../Audio/Short & Sensetive/93A5-ALPG.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=23 end=97418 sample=../Audio/Short & Sensetive/94A#5-DJ6U.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=127 end=69230 sample=../Audio/Short & Sensetive/94A#5-BAWM.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=146 end=81507 sample=../Audio/Short & Sensetive/94A#5-9AHQ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=148 end=88123 sample=../Audio/Short & Sensetive/94A#5-SF31.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=155 end=63768 sample=../Audio/Short & Sensetive/95B5-T1QK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=9 end=68406 sample=../Audio/Short & Sensetive/95B5-MTQ7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=26 end=75810 sample=../Audio/Short & Sensetive/95B5-J56M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=131 end=87174 sample=../Audio/Short & Sensetive/95B5-66OF.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=210 end=64520 sample=../Audio/Short & Sensetive/96C6-KQ60.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=141 end=64900 sample=../Audio/Short & Sensetive/96C6-2Y1Q.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=95 end=75528 sample=../Audio/Short & Sensetive/96C6-C7XA.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=121 end=86327 sample=../Audio/Short & Sensetive/96C6-TLPV.aif

@@ -1,0 +1,187 @@
+// this file was generated from Dynamic Saw.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group>lokey=8 hikey=24 pitch_keycenter=24 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=142 end=13658 sample=../Audio/Dynamic Saw/24C0-HCQZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=66 sample=../Audio/Dynamic Saw/24C0-BDJ2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=114 end=31252 sample=../Audio/Dynamic Saw/24C0-8XFW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=172 end=33632 sample=../Audio/Dynamic Saw/24C0-644E.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=147 end=14081 sample=../Audio/Dynamic Saw/25C#0-SU4H.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=191 end=23082 sample=../Audio/Dynamic Saw/25C#0-FEOS.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=131 end=32064 sample=../Audio/Dynamic Saw/25C#0-DTVB.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=112 end=32942 sample=../Audio/Dynamic Saw/25C#0-69SX.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=106 end=14067 sample=../Audio/Dynamic Saw/26D0-456V.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=150 end=23595 sample=../Audio/Dynamic Saw/26D0-UM7Y.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=140 end=32661 sample=../Audio/Dynamic Saw/26D0-DYQP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=198 end=44033 sample=../Audio/Dynamic Saw/26D0-B3H5.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=127 end=13811 sample=../Audio/Dynamic Saw/27D#0-06WB.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=171 end=30614 sample=../Audio/Dynamic Saw/27D#0-HPNE.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=82 end=31923 sample=../Audio/Dynamic Saw/27D#0-CZ5S.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=132 end=43407 sample=../Audio/Dynamic Saw/27D#0-E0H2.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=133 end=14058 sample=../Audio/Dynamic Saw/28E0-12EH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=110 end=22846 sample=../Audio/Dynamic Saw/28E0-ST9M.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=189 end=41089 sample=../Audio/Dynamic Saw/28E0-NU26.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=113 end=33848 sample=../Audio/Dynamic Saw/28E0-L0L4.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=221 end=24961 sample=../Audio/Dynamic Saw/29F0-QZSH.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=168 end=24412 sample=../Audio/Dynamic Saw/29F0-M3BI.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=110 end=30845 sample=../Audio/Dynamic Saw/29F0-6ZZ7.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=6 end=33838 sample=../Audio/Dynamic Saw/29F0-913Y.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=50 end=13507 sample=../Audio/Dynamic Saw/30F#0-VM6Q.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=108 end=32779 sample=../Audio/Dynamic Saw/30F#0-1E4P.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=16 end=32228 sample=../Audio/Dynamic Saw/30F#0-BOK9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=128 end=33550 sample=../Audio/Dynamic Saw/30F#0-UKOS.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=138 end=13924 sample=../Audio/Dynamic Saw/31G0-G6MF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=85 end=23977 sample=../Audio/Dynamic Saw/31G0-C74Q.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=29 end=31783 sample=../Audio/Dynamic Saw/31G0-DHI6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=113 end=33213 sample=../Audio/Dynamic Saw/31G0-JYYQ.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=136 end=23337 sample=../Audio/Dynamic Saw/32G#0-G076.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=144 end=31647 sample=../Audio/Dynamic Saw/32G#0-27AV.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=153 end=31519 sample=../Audio/Dynamic Saw/32G#0-YBB9.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=163 end=32527 sample=../Audio/Dynamic Saw/32G#0-UWFY.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=176 sample=../Audio/Dynamic Saw/33A0-BLT9.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=131 end=22729 sample=../Audio/Dynamic Saw/33A0-WQ0F.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=130 end=41895 sample=../Audio/Dynamic Saw/33A0-SYV1.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=129 end=32653 sample=../Audio/Dynamic Saw/33A0-OFCG.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=112 end=12642 sample=../Audio/Dynamic Saw/34A#0-ZD8O.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=107 end=27948 sample=../Audio/Dynamic Saw/34A#0-WYA1.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=63 end=32299 sample=../Audio/Dynamic Saw/34A#0-UGZ6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=120 end=32800 sample=../Audio/Dynamic Saw/34A#0-P53T.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=114 end=14680 sample=../Audio/Dynamic Saw/35B0-31J7.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=33 end=30971 sample=../Audio/Dynamic Saw/35B0-HNLU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=161 end=32128 sample=../Audio/Dynamic Saw/35B0-RKZW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=81 end=42694 sample=../Audio/Dynamic Saw/35B0-EZBV.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=124 end=13261 sample=../Audio/Dynamic Saw/36C1-G0PO.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=158 end=41229 sample=../Audio/Dynamic Saw/36C1-F8BS.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=91 end=31828 sample=../Audio/Dynamic Saw/36C1-TYFE.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=18 end=33005 sample=../Audio/Dynamic Saw/36C1-Q6K1.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=118 end=15104 sample=../Audio/Dynamic Saw/37C#1-41AZ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=172 end=33171 sample=../Audio/Dynamic Saw/37C#1-F6C2.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=78 end=32165 sample=../Audio/Dynamic Saw/37C#1-CZ94.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=123 end=33673 sample=../Audio/Dynamic Saw/37C#1-KV5I.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=181 end=12754 sample=../Audio/Dynamic Saw/38D1-XBI8.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=111 end=32139 sample=../Audio/Dynamic Saw/38D1-J077.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=40 end=31034 sample=../Audio/Dynamic Saw/38D1-BRNW.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=29 end=32773 sample=../Audio/Dynamic Saw/38D1-QRW9.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=142 end=22671 sample=../Audio/Dynamic Saw/39D#1-SCX6.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=86 end=40086 sample=../Audio/Dynamic Saw/39D#1-PUKD.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=156 end=32275 sample=../Audio/Dynamic Saw/39D#1-3DKR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=97 end=33302 sample=../Audio/Dynamic Saw/39D#1-MNF4.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=173 end=11691 sample=../Audio/Dynamic Saw/40E1-6TPQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=108 end=18242 sample=../Audio/Dynamic Saw/40E1-8QYH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=161 end=30993 sample=../Audio/Dynamic Saw/40E1-FANF.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=113 end=41222 sample=../Audio/Dynamic Saw/40E1-KJRY.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=150 end=22656 sample=../Audio/Dynamic Saw/41F1-FFAJ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=49 end=22685 sample=../Audio/Dynamic Saw/41F1-B2Q8.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=143 end=32346 sample=../Audio/Dynamic Saw/41F1-15C3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=59 end=33657 sample=../Audio/Dynamic Saw/41F1-4BWS.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=160 sample=../Audio/Dynamic Saw/42F#1-T4HQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=138 end=20687 sample=../Audio/Dynamic Saw/42F#1-XQ2T.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=124 end=31262 sample=../Audio/Dynamic Saw/42F#1-398Y.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=143 end=33122 sample=../Audio/Dynamic Saw/42F#1-SMTT.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=148 end=12598 sample=../Audio/Dynamic Saw/43G1-OYXT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=186 end=32392 sample=../Audio/Dynamic Saw/43G1-JFW4.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=178 end=33537 sample=../Audio/Dynamic Saw/43G1-OFWZ.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=149 end=33982 sample=../Audio/Dynamic Saw/43G1-JFMZ.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=91 end=11758 sample=../Audio/Dynamic Saw/44G#1-65Y1.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=174 end=29973 sample=../Audio/Dynamic Saw/44G#1-92LS.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=176 end=32481 sample=../Audio/Dynamic Saw/44G#1-PILK.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=53 end=43677 sample=../Audio/Dynamic Saw/44G#1-U6LM.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=125 end=20738 sample=../Audio/Dynamic Saw/45A1-JZZ0.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=23 end=20588 sample=../Audio/Dynamic Saw/45A1-9X8N.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=115 end=30800 sample=../Audio/Dynamic Saw/45A1-3C0M.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=95 end=33363 sample=../Audio/Dynamic Saw/45A1-GDTF.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=152 end=11111 sample=../Audio/Dynamic Saw/46A#1-0JUT.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=70 end=25218 sample=../Audio/Dynamic Saw/46A#1-UU62.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=169 end=30352 sample=../Audio/Dynamic Saw/46A#1-JGC6.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=110 end=32591 sample=../Audio/Dynamic Saw/46A#1-5MNE.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=134 end=10329 sample=../Audio/Dynamic Saw/47B1-D8DQ.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=92 end=16525 sample=../Audio/Dynamic Saw/47B1-BEU7.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=149 end=31752 sample=../Audio/Dynamic Saw/47B1-PD49.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=121 end=32455 sample=../Audio/Dynamic Saw/47B1-3QLM.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=145 end=10023 sample=../Audio/Dynamic Saw/48C2-8FKK.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=197 end=41750 sample=../Audio/Dynamic Saw/48C2-WHPA.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=92 end=31444 sample=../Audio/Dynamic Saw/48C2-3VN3.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=196 end=32563 sample=../Audio/Dynamic Saw/48C2-1VIV.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=117 end=9849 sample=../Audio/Dynamic Saw/49C#2-6UMP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=89 end=27799 sample=../Audio/Dynamic Saw/49C#2-9RQT.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=141 end=31178 sample=../Audio/Dynamic Saw/49C#2-AH6I.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=110 end=41093 sample=../Audio/Dynamic Saw/49C#2-0YL0.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=159 end=9972 sample=../Audio/Dynamic Saw/50D2-PFMI.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=132 end=17795 sample=../Audio/Dynamic Saw/50D2-WVFH.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=79 end=32274 sample=../Audio/Dynamic Saw/50D2-W192.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=97 end=42767 sample=../Audio/Dynamic Saw/50D2-LN3G.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=30 end=9717 sample=../Audio/Dynamic Saw/51D#2-VESG.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=127 end=17968 sample=../Audio/Dynamic Saw/51D#2-894N.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=155 end=42121 sample=../Audio/Dynamic Saw/51D#2-3MAR.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=59 end=42762 sample=../Audio/Dynamic Saw/51D#2-MV1H.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=131 end=9613 sample=../Audio/Dynamic Saw/52E2-L0KL.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=168 end=16493 sample=../Audio/Dynamic Saw/52E2-1X4E.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=110 end=32412 sample=../Audio/Dynamic Saw/52E2-T3VF.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=77 end=33427 sample=../Audio/Dynamic Saw/52E2-LMB8.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=127 end=20139 sample=../Audio/Dynamic Saw/53F2-7RVV.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=161 sample=../Audio/Dynamic Saw/53F2-ID5D.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=139 end=32671 sample=../Audio/Dynamic Saw/53F2-OVGX.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=126 end=34166 sample=../Audio/Dynamic Saw/53F2-T17E.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=138 end=8735 sample=../Audio/Dynamic Saw/54F#2-9T0H.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=157 end=17718 sample=../Audio/Dynamic Saw/54F#2-YD4I.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=125 end=43031 sample=../Audio/Dynamic Saw/54F#2-TEDM.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=145 end=32169 sample=../Audio/Dynamic Saw/54F#2-TRJJ.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=144 end=19585 sample=../Audio/Dynamic Saw/55G2-47HP.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=162 end=16920 sample=../Audio/Dynamic Saw/55G2-3PWG.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=138 end=31550 sample=../Audio/Dynamic Saw/55G2-8OFL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=143 end=32446 sample=../Audio/Dynamic Saw/55G2-AKLX.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=197 end=10461 sample=../Audio/Dynamic Saw/56G#2-OFOF.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=171 end=15882 sample=../Audio/Dynamic Saw/56G#2-6GKY.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=38 end=33054 sample=../Audio/Dynamic Saw/56G#2-O7BP.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=21 end=32553 sample=../Audio/Dynamic Saw/56G#2-IGAF.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=99 end=9057 sample=../Audio/Dynamic Saw/57A2-YJDA.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=105 end=15483 sample=../Audio/Dynamic Saw/57A2-LLWB.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=126 end=29278 sample=../Audio/Dynamic Saw/57A2-GC82.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=202 end=42897 sample=../Audio/Dynamic Saw/57A2-GVNI.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=55 end=8338 sample=../Audio/Dynamic Saw/58A#2-7J84.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=97 end=15723 sample=../Audio/Dynamic Saw/58A#2-33LU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=117 end=29292 sample=../Audio/Dynamic Saw/58A#2-HMQY.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=122 end=33287 sample=../Audio/Dynamic Saw/58A#2-3FAJ.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=153 end=8479 sample=../Audio/Dynamic Saw/59B2-KGUM.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=108 end=24080 sample=../Audio/Dynamic Saw/59B2-IXCU.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=151 end=28639 sample=../Audio/Dynamic Saw/59B2-2ZBL.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=167 end=33300 sample=../Audio/Dynamic Saw/59B2-KY2M.aif
+<group>lokey=60 hikey=127 pitch_keycenter=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=172 sample=../Audio/Dynamic Saw/60C3-NA64.aif
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=111 end=16567 sample=../Audio/Dynamic Saw/60C3-B649.aif
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=174 end=30228 sample=../Audio/Dynamic Saw/60C3-KLHC.aif
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=179 end=33060 sample=../Audio/Dynamic Saw/60C3-YTV8.aif

@@ -1,0 +1,124 @@
+// this file was generated from Micro Piano.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=3 end=291855 sample=../Audio/Micro Piano/36C1-AJQ7.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=44 end=293876 sample=../Audio/Micro Piano/37C#1-MHUJ.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=13 end=295258 sample=../Audio/Micro Piano/38D1-0RO0.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=72 end=295567 sample=../Audio/Micro Piano/39D#1-1J3C.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=80 end=309015 sample=../Audio/Micro Piano/40E1-UA5C.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=99 end=296706 sample=../Audio/Micro Piano/41F1-3VEC.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=89 end=300077 sample=../Audio/Micro Piano/42F#1-ZB7F.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=146 end=310274 sample=../Audio/Micro Piano/43G1-OOB6.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=11 end=300604 sample=../Audio/Micro Piano/44G#1-MHHX.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=21 end=298837 sample=../Audio/Micro Piano/45A1-FWPM.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=93 end=312731 sample=../Audio/Micro Piano/46A#1-VI3G.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=190 end=301703 sample=../Audio/Micro Piano/47B1-XRDH.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=100 end=315520 sample=../Audio/Micro Piano/48C2-GYO6.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=5 end=312837 sample=../Audio/Micro Piano/49C#2-8GYE.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=34 sample=../Audio/Micro Piano/50D2-8IBY.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=106 end=302607 sample=../Audio/Micro Piano/51D#2-N0XF.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=107 end=305275 sample=../Audio/Micro Piano/52E2-F168.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=95 sample=../Audio/Micro Piano/53F2-NPGO.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=140 end=306729 sample=../Audio/Micro Piano/54F#2-KMH2.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=101 end=305116 sample=../Audio/Micro Piano/55G2-TUPY.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=41 end=307028 sample=../Audio/Micro Piano/56G#2-V7CW.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=98 end=307060 sample=../Audio/Micro Piano/57A2-ZE23.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=172 sample=../Audio/Micro Piano/58A#2-X7MS.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=106 end=307542 sample=../Audio/Micro Piano/59B2-ZWJA.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=93 end=309677 sample=../Audio/Micro Piano/60C3-5UFP.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=126 end=308366 sample=../Audio/Micro Piano/61C#3-HPVD.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=80 end=307459 sample=../Audio/Micro Piano/62D3-RLYE.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=12 end=318495 sample=../Audio/Micro Piano/63D#3-JT9C.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=93 end=318982 sample=../Audio/Micro Piano/64E3-TJ8M.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=110 end=309338 sample=../Audio/Micro Piano/65F3-YI19.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=59 end=319927 sample=../Audio/Micro Piano/66F#3-YVK5.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=149 end=310847 sample=../Audio/Micro Piano/67G3-C6IL.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=81 end=308671 sample=../Audio/Micro Piano/68G#3-MBMA.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=36 end=309607 sample=../Audio/Micro Piano/69A3-D26U.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=181 end=309304 sample=../Audio/Micro Piano/70A#3-KKH9.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=9 end=309737 sample=../Audio/Micro Piano/71B3-H9L1.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=37 end=310464 sample=../Audio/Micro Piano/72C4-OZTG.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=95 sample=../Audio/Micro Piano/73C#4-I3OS.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=42 end=310470 sample=../Audio/Micro Piano/74D4-DRHB.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=58 end=311510 sample=../Audio/Micro Piano/75D#4-7IBI.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=9 end=310785 sample=../Audio/Micro Piano/76E4-N3XJ.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=46 sample=../Audio/Micro Piano/77F4-PQGH.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=64 end=310929 sample=../Audio/Micro Piano/78F#4-T12O.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=61 end=321838 sample=../Audio/Micro Piano/79G4-885I.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=172 end=311749 sample=../Audio/Micro Piano/80G#4-5D10.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=148 end=310883 sample=../Audio/Micro Piano/81A4-R7KX.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=98 end=310841 sample=../Audio/Micro Piano/82A#4-42KU.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=95 end=311268 sample=../Audio/Micro Piano/83B4-B916.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=76 end=321713 sample=../Audio/Micro Piano/84C5-6QMC.aif
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=138 end=311368 sample=../Audio/Micro Piano/85C#5-6EZW.aif
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=105 sample=../Audio/Micro Piano/86D5-Q57E.aif
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=27 end=311434 sample=../Audio/Micro Piano/87D#5-OB7N.aif
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=121 end=320911 sample=../Audio/Micro Piano/88E5-CKRU.aif
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=1 end=321156 sample=../Audio/Micro Piano/89F5-MSYS.aif
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=119 end=312635 sample=../Audio/Micro Piano/90F#5-5W8F.aif
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=140 end=322015 sample=../Audio/Micro Piano/91G5-SIMA.aif
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=89 end=312925 sample=../Audio/Micro Piano/92G#5-K0AR.aif
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=82 end=312686 sample=../Audio/Micro Piano/93A5-PV2K.aif
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=125 end=312534 sample=../Audio/Micro Piano/94A#5-3D17.aif
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=11 end=311547 sample=../Audio/Micro Piano/95B5-R0GE.aif
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=110 end=312104 sample=../Audio/Micro Piano/96C6-WO16.aif

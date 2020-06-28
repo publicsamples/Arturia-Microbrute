@@ -1,0 +1,124 @@
+// this file was generated from The Pube in your coffee.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=271375 loop_end=347148 sample=../Audio/The Pube in your coffee/(2013124 205327)/24C0-HMBU.aif
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=263237 loop_end=319526 sample=../Audio/The Pube in your coffee/(2013124 205327)/25C#0-BEE1.aif
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=208965 loop_end=336981 sample=../Audio/The Pube in your coffee/(2013124 205327)/26D0-3OZF.aif
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=188008 loop_end=322164 sample=../Audio/The Pube in your coffee/(2013124 205327)/27D#0-UOGZ.aif
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=207750 loop_end=274299 sample=../Audio/The Pube in your coffee/(2013124 205327)/28E0-0478.aif
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163925 loop_end=269391 sample=../Audio/The Pube in your coffee/(2013124 205327)/29F0-7F2M.aif
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=184824 loop_end=242125 sample=../Audio/The Pube in your coffee/(2013124 205327)/30F#0-51ZA.aif
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=132545 loop_end=260523 sample=../Audio/The Pube in your coffee/(2013124 205327)/31G0-CXM6.aif
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155961 loop_end=212174 sample=../Audio/The Pube in your coffee/(2013124 205327)/32G#0-6BTE.aif
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=139953 loop_end=196210 sample=../Audio/The Pube in your coffee/(2013124 205327)/33A0-PXAP.aif
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=156159 loop_end=247263 sample=../Audio/The Pube in your coffee/(2013124 205327)/34A#0-CCM0.aif
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=300609 loop_end=356601 sample=../Audio/The Pube in your coffee/(2013124 205327)/35B0-31CR.aif
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283215 loop_end=375376 sample=../Audio/The Pube in your coffee/(2013124 205327)/36C1-N1V1.aif
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=322042 loop_end=378299 sample=../Audio/The Pube in your coffee/(2013124 205327)/37C#1-GJXL.aif
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=283884 loop_end=385257 sample=../Audio/The Pube in your coffee/(2013124 205327)/38D1-B5VM.aif
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=290904 loop_end=351307 sample=../Audio/The Pube in your coffee/(2013124 205327)/39D#1-MJIU.aif
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=244556 loop_end=349983 sample=../Audio/The Pube in your coffee/(2013124 205327)/40E1-GNGF.aif
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=238580 loop_end=341998 sample=../Audio/The Pube in your coffee/(2013124 205327)/41F1-ZYPF.aif
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=215948 loop_end=320395 sample=../Audio/The Pube in your coffee/(2013124 205327)/42F#1-696K.aif
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=191963 loop_end=300528 sample=../Audio/The Pube in your coffee/(2013124 205327)/43G1-BMCW.aif
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=178743 loop_end=286215 sample=../Audio/The Pube in your coffee/(2013124 205327)/44G#1-DHF6.aif
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=163955 loop_end=273563 sample=../Audio/The Pube in your coffee/(2013124 205327)/45A1-SAY4.aif
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=147590 loop_end=258739 sample=../Audio/The Pube in your coffee/(2013124 205327)/46A#1-UF22.aif
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=133081 loop_end=243656 sample=../Audio/The Pube in your coffee/(2013124 205327)/47B1-47DX.aif
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=155875 loop_end=210056 sample=../Audio/The Pube in your coffee/(2013124 205327)/48C2-T04K.aif
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=136283 loop_end=192572 sample=../Audio/The Pube in your coffee/(2013124 205327)/49C#2-FIB7.aif
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=280251 loop_end=386003 sample=../Audio/The Pube in your coffee/(2013124 205327)/50D2-VSJB.aif
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=270791 loop_end=384436 sample=../Audio/The Pube in your coffee/(2013124 205327)/51D#2-FJB6.aif
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=315235 loop_end=365887 sample=../Audio/The Pube in your coffee/(2013124 205327)/52E2-SD0X.aif
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=261493 loop_end=385110 sample=../Audio/The Pube in your coffee/(2013124 205327)/53F2-EMJW.aif
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=249754 loop_end=373228 sample=../Audio/The Pube in your coffee/(2013124 205327)/54F#2-MWCX.aif
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=229205 loop_end=358351 sample=../Audio/The Pube in your coffee/(2013124 205327)/55G2-KKTE.aif
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=210970 loop_end=337525 sample=../Audio/The Pube in your coffee/(2013124 205327)/56G#2-0PVM.aif
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=196480 loop_end=325808 sample=../Audio/The Pube in your coffee/(2013124 205327)/57A2-KY4T.aif
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=182811 loop_end=311770 sample=../Audio/The Pube in your coffee/(2013124 205327)/58A#2-O4OA.aif
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=161260 loop_end=290197 sample=../Audio/The Pube in your coffee/(2013124 205327)/59B2-ZW2D.aif
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=150800 loop_end=279979 sample=../Audio/The Pube in your coffee/(2013124 205327)/60C3-0ER2.aif
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=132538 loop_end=260336 sample=../Audio/The Pube in your coffee/(2013124 205327)/61C#3-08P2.aif
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=166933 loop_end=218418 sample=../Audio/The Pube in your coffee/(2013124 205327)/62D3-V2MN.aif
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=151270 loop_end=203044 sample=../Audio/The Pube in your coffee/(2013124 205327)/63D#3-NNMY.aif
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=136193 loop_end=187760 sample=../Audio/The Pube in your coffee/(2013124 205327)/64E3-UCJJ.aif
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=307301 loop_end=384286 sample=../Audio/The Pube in your coffee/(2013124 205327)/65F3-S2CZ.aif
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=294007 loop_end=385038 sample=../Audio/The Pube in your coffee/(2013124 205327)/66F#3-KFF2.aif
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333023 loop_end=386152 sample=../Audio/The Pube in your coffee/(2013124 205327)/67G3-WXSS.aif
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=304139 loop_end=385674 sample=../Audio/The Pube in your coffee/(2013124 205327)/68G#3-JF04.aif
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=274403 loop_end=382786 sample=../Audio/The Pube in your coffee/(2013124 205327)/69A3-HHJ8.aif
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=257133 loop_end=366635 sample=../Audio/The Pube in your coffee/(2013124 205327)/70A#3-BDY8.aif
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=240737 loop_end=350248 sample=../Audio/The Pube in your coffee/(2013124 205327)/71B3-V89W.aif
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=230542 loop_end=336441 sample=../Audio/The Pube in your coffee/(2013124 205327)/72C4-9JAG.aif
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=212075 loop_end=319337 sample=../Audio/The Pube in your coffee/(2013124 205327)/73C#4-BJ26.aif
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=197242 loop_end=303079 sample=../Audio/The Pube in your coffee/(2013124 205327)/74D4-0HY3.aif
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=183376 loop_end=290975 sample=../Audio/The Pube in your coffee/(2013124 205327)/75D#4-RWV9.aif
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=200973 loop_end=259222 sample=../Audio/The Pube in your coffee/(2013124 205327)/76E4-GQX1.aif
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=186706 loop_end=241166 sample=../Audio/The Pube in your coffee/(2013124 205327)/77F4-F5B9.aif
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=158234 loop_end=212108 sample=../Audio/The Pube in your coffee/(2013124 205327)/78F#4-E45T.aif
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=140837 loop_end=194889 sample=../Audio/The Pube in your coffee/(2013124 205327)/79G4-Q7E5.aif
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=131580 loop_end=184815 sample=../Audio/The Pube in your coffee/(2013124 205327)/80G#4-BV1L.aif
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=333604 loop_end=384246 sample=../Audio/The Pube in your coffee/(2013124 205327)/81A4-OZXF.aif
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=319338 loop_end=369994 sample=../Audio/The Pube in your coffee/(2013124 205327)/82A#4-A2QO.aif
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=268952 loop_end=384808 sample=../Audio/The Pube in your coffee/(2013124 205327)/83B4-AA9S.aif
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 loop_mode=loop_sustain loop_start=247852 loop_end=382785 sample=../Audio/The Pube in your coffee/(2013124 205327)/84C5-9T4E.aif
