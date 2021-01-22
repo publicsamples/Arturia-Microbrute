@@ -7,7 +7,7 @@ The Microbrute is a single oscillator mono-synth. It features a multi-mode filte
 -   **Approx Size:** 530mb
 -   **Info:** [arturia.com](https://www.arturia.com/microbrute/overview/)
 
- **Audio:**https://www.dropbox.com/sh/6cip8xw4itmqze4/AAD0slrsmTSqVi_BQY3RoLzla?dl=0 
+ **Audio:**https://www.dropbox.com/sh/6cip8xw4itmqze4/AAD0slrsmTSqVi_BQY3RoLzla?dl=0) 
 
 # Loading
 
@@ -35,8 +35,10 @@ The Microbrute is a single oscillator mono-synth. It features a multi-mode filte
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a [list of compatible instruments.](https://sfzformat.com/software/players/) 
 
-## Disks
+## Support this project
+
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)
