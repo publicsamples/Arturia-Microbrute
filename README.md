@@ -6,6 +6,7 @@ The Microbrute is a single oscillator mono-synth. It features a multi-mode filte
 -   **Formats:** EXS24, Kontakt, NN-XT & SFZ
 -   **Approx Size:** 530mb
 -   **Info:** [arturia.com](https://www.arturia.com/microbrute/overview/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/ArturiaMicrobrute.html)
 
  **Audio:**https://www.dropbox.com/sh/6cip8xw4itmqze4/AAD0slrsmTSqVi_BQY3RoLzla?dl=0) 
 
