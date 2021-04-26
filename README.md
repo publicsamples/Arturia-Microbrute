@@ -36,10 +36,10 @@ The Microbrute is a single oscillator mono-synth. It features a multi-mode filte
 
 The SFZ format is supported by a wide variety of synths and samplers as such, specific loading instructions are not provided. See here for a [list of compatible instruments.](https://sfzformat.com/software/players/) 
 
-## Support this project
+# Support this project
 
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/blob/master/images/ulp.jpg?raw=true)
+](https://gum.co/TdDvx)
