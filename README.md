@@ -8,8 +8,7 @@ The Microbrute is a single oscillator mono-synth. It features a multi-mode filte
 -   **Info:** [arturia.com](https://www.arturia.com/microbrute/overview/)
 - [Web Audio Demo](https://www.modularsamples.com/Demos/demos/ArturiaMicrobrute.html)
 
-**[Download Audio](https://github.com/publicsamples/Arturia-Microbrute
-/releases/tag/1.0)**
+**[Download Audio](https://github.com/publicsamples/Arturia-Microbrute/releases/tag/1.0)**
 
 
 # Loading
